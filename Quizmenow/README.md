@@ -2,7 +2,7 @@
 #### Video Demo: https://www.youtube.com/watch?v=3lB5Ab6Wp08
 #### Description:
 ##### General:
-**WHen COVID-19 broke out in my country, I was thinking of what to do for the final project.**
+**When COVID-19 broke out in my country, I was thinking of what to do for the final project.**
 **Suddenly we were on lockdown and every one had to take classes online at home.**
 **But soon problems arose, when the teachers found out that they couldn't give us test sheet.**
 **Therefore I decided to solve the problem by creating a platform where you can create quizes and share it with others.**
